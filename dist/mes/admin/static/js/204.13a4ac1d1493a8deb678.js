@@ -1,0 +1,1 @@
+webpackJsonp([204],{"KS/W":function(e,t,s){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var l={render:function(){var e=this.$createElement;return(this._self._c||e)("tbody",{staticClass:"gtmc-table-body"},[this._t("default")],2)},staticRenderFns:[]},n=s("VU/8")({props:{}},l,!1,null,null,null);t.default=n.exports}});
