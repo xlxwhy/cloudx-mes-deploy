@@ -1,0 +1,1 @@
+webpackJsonp([225],{"+rZr":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var l={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticStyle:{padding:"50px 0","text-align":"center"}},[this._v("\n    请在左侧的预览界面中，选择需要配置的栏目，点击“编辑”按钮开始编辑。\n")])},staticRenderFns:[]},r=n("VU/8")(null,l,!1,null,null,null);t.default=r.exports}});
